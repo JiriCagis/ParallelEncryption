@@ -7,10 +7,10 @@ Safety do 128bit key assure harder break with keygen.
 <h3> Main function </h3>
 - Symetric cypher
 - Block bytes cypher independ on file
-- Force security in 128 bit
+- Force security in 128 bit key
 - Parralel work on many thread processor
 
 <h3> Technologies </h3>
 - Programming language: C++
-- Parralel framework: OpenMP
+- Parallel framework: OpenMP
 
