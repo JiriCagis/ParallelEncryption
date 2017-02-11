@@ -1,14 +1,13 @@
 <h1> Parallel encryption </h1>
-This program will created as school project in subject parallel computing.
-Program use symetric cypher algortihm on block bytes. So you must cypher
-any file, not depend type. For cypher is used substitution, permutation and matrix strategies.
-Safety do 128bit key assure harder break with keygen.
+This program was created as schoool project in a subject parallel computing. The program use symetric cypher algorithm on block bytes. So you can cypher any file, it does not depend on file types. Cypher uses substitution, permution and matrix strategies. 128 bit key assures safety harden break with keygen.
 
-<h3> Main function </h3>
-- Symetric cypher
-- Block bytes cypher independ on file
-- Force security in 128 bit key
-- Parralel work on many thread processor
+<h3> Main functions </h3>
+<ul>
+	<li>Symetric cypher</li>
+	<li>Block bytes cypher independ on file</li>
+	<li>Force security in 128 bit key</li>
+	<li>Parralel work on many thread processor</li>
+</ul>
 
 <h3> Technologies </h3>
 - Programming language: C++
